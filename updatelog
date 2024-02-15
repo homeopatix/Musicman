@@ -1,0 +1,31 @@
+UPDATE V1.04
+(French)
+Corriger un bogues de gestion du plugins a travers le Plugin compendium
+(English)
+Fix a plugin management bug through the Plugin compendium
+(Deutsche)
+Beheben Sie einen Plugin-Verwaltungsfehler über das Plugin-Kompendium
+
+UPDATE V1.03
+(French)
+Corriger un bogues d'affichage lorsqu'on cache la fenetre avec F12
+(English)
+Fix a display bug when hiding the window with F12
+(Deutsche)
+Behebung eines Anzeigefehlers beim Ausblenden des Fensters mit F12
+
+UPDATE V1.02
+(French)
+Corriger un bogues qui ne fermait pas la fenetre correctement avec la touche Escape
+(English)
+Fix a bug that did not close the window correctly with the Escape key
+(Deutsche)
+Behebung eines Fehlers, der das Fenster mit der Escape-Taste nicht richtig geschlossen hat
+
+UPDATE V1.01
+(French)
+Sortie initiale
+(English)
+Initiale release
+(Deutsche)
+Erstveröffentlichung
