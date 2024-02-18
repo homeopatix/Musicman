@@ -12,20 +12,20 @@ function CreateLocalizationInfo()
 		Strings.PluginText = "Von Homeopatix";
 		Strings.PluginPrimary = "Fernwaffe";
 		Strings.PluginCanneapeche = "Musikinstrument";
-		Strings.PluginValidate = "Auswahl validieren";
+		Strings.PluginValidate = "Speichern";
 		Strings.PluginAltEnable = "Alt-Taste aktiviert";
 		Strings.PluginAltDesable = "Alt-Taste deaktiviert";
-		Strings.PluginWindowShow = "Schaufenster.";
-		Strings.PluginWindowHide = "Verstecke das Fenster.";
+		Strings.PluginWindowShow = "Fenster wird angezeigt";
+		Strings.PluginWindowHide = "Fenster wird ausgeblendet";
 		Strings.PluginPlayMusicAlias = "/musik";
-		Strings.PluginOptionShowWindow = "Zeigen Sie das Optionsfenster an";
-		Strings.PluginClear = "L\195\182schen Sie die Verkn\195\188pfungen";
+		Strings.PluginOptionShowWindow = "Optionen werden angezeigt";
+		Strings.PluginClear = "Alle Verkn\195\188pfungen gel\195\182scht!";
 		Strings.PluginHelp = " *** MusicMan Hilfe ***\n\n" ..
-		"/Mu show Zeigen MusicMan an\n" ..
-		"/Mu hide Verstecke MusicMan\n" ..
-		"/Mu alt - Aktivieren oder deaktivieren Sie die alt-Taste um das Symbol zu verschieben.\n\n" ..
-		"/Mu toggle - Fenster ein-oder ausblenden\n\n" ..
-		"Sie k\195\182nnen Ihre Angelrute im Symbol rechts ziehen und ablegen";
+		"/mu show - Zeigt das Fenster an.\n" ..
+		"/mu hide - Blendet das Fenster aus.\n" ..
+		"/mu alt - Alt-Taste gedr\195\188ckt halten, um das Symbol zu verschieben.\n" ..
+		"/mu toggle - Fenster anzeigen/ausblenden.\n\n" ..
+		"Du kannst dein Musikinstrument und die Fernwaffe in das entsprechende Feld ziehen und ablegen.";
 
 elseif Turbine.Engine.GetLanguage() == Turbine.Language.French then
 		Strings.PluginName = "Music";
