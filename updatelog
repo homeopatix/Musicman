@@ -1,3 +1,11 @@
+UPDATE V1.05
+(French)
+Corriger un bug qui affichait la fenêtre d'option au démarrage
+(English)
+Fix a bug that displayed the option window on startup
+(Deutsche)
+Beheben Sie einen Fehler, der das Optionsfenster beim Start anzeigte
+
 UPDATE V1.04
 (French)
 Corriger un bogues de gestion du plugins a travers le Plugin compendium
