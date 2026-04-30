@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PluginConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1117</Id>
+  <Name>MusicMan</Name>
+  <Version>1.06</Version>
+  <Author>Homeopatix</Author>
+ <Description>
+DESCRIPTION (Francais)
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+MusicMan est un petit plugin pour avoir un acces rapide a votre instrument de musique
+Vous pouvez effacer un raccourci avec la mollete de la souris sur le reccourci
+Definissez votre arme a distance et votre instrument de musique dans la fenetre d'options
+Cliquer sur l'instruement de musique pour vous en equiper, ensuite cliquer sur musique pour jouer et ensuite la pricipale pour la reequiper
+
+DESCRIPTION (English)
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+MusicMan is a small plugin to have quick access to your musical instrument
+You can delete a shortcut with the mouse movement on the shortcut
+Set your ranged weapon and your musical instrument in the options window
+Click on the musical instrument to equip yourself with it, then click on music to play and then the main one to re-equip it
+
+DESCRIPTION (Deutsche)  
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+MusicMan ist ein kleines Plugin fur den schnellen Zugriff auf Ihr Musikinstrument
+Sie konnen eine Verknupfung mit der Mausbewegung auf der Verknupfung loschen
+Stellen Sie Ihre Fernkampfwaffe und Ihr Musikinstrument im Optionsfenster ein
+Klicken Sie auf das Musikinstrument, um sich damit auszustatten, dann auf Musik zum Spielen und dann auf das Hauptinstrument, um es neu auszurusten
+
+LIST OF ALL COMMANDS
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+(French)
+Raccourci disponible
+/Mu show - montre la fenetre
+/Mu hide - cache la fenetre
+/Mu alt - Active ou desactive la touche alt pour le deplacement de l'icon
+/Mu toggle - affiche ou cache la fenetre
+/Mu options - affiche la fenetre d'options
+
+(English)
+Shortcut available
+/Mu show - show the window
+/Mu hide - hide the window
+/Mu alt - Activate or deactivate the alt key to move the icon
+/Mu toggle - display or hide the window
+/Mu options - display the options window
+
+(Deutsche)
+Verknupfung verfugbar
+/Mu show - zeige das Fenster
+/Mu Hide - Verstecke das Fenster
+/Mu alt - Aktivieren oder deaktivieren Sie die alt-Taste um das Symbol zu verschieben
+/Mu toggle - Fenster ein-oder ausblenden
+/Mu options - Zeigen Sie das Optionsfenster an
+</Description>
+  <InfoUrl>http://www.lotrointerface.com/downloads/info1117</InfoUrl>
+  <DownloadUrl>http://www.lotrointerface.com/downloads/download1117</DownloadUrl>
+  <Descriptors>
+    <descriptor>Homeopatix\MusicMan.plugin</descriptor>
+  </Descriptors>
+</PluginConfig>
