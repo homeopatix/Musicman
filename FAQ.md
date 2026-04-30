@@ -4,7 +4,7 @@
 # 🐞 FAQ
 
 ### ❓ Je ne vois plus l’icône
-Utilisez `/Alt icon` pour la réafficher.
+Utilisez `/Mus icon` pour la réafficher.
 
 ### ❓ L’icône est hors écran
 Maintenez `ALT` et repositionnez-la.
