@@ -3,7 +3,7 @@
 ## Raccourcis
 - ALT : déplacer l’icône
 - SHIFT + clic sur l’icône : options
-- /Mus icon : afficher/masquer l’icône
+- /Mu icon : afficher/masquer l’icône
 
 ## Fonctions principales (UI)
 - Affiche vos instruments de musique
